@@ -1,0 +1,1 @@
+I have started the process and the scripts for developing linux from scratch from linuxfromscratch.org. My goal is to develop my own version of Linux through the provided resources exploring more of the depth of Linux and understanding the kernel of how to build an OS.
