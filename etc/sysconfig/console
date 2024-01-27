@@ -1,0 +1,7 @@
+# Begin /etc/sysconfig/console
+
+KEYMAP="pl2"
+LOGLEVEL=3
+FONT="lat1-16 -m 8859-1"
+
+# End /etc/sysconfig/console

@@ -1,0 +1,7 @@
+# Begin /etc/hosts
+
+127.0.0.1 localhost.localdomain localhost
+127.0.1.1 lfs_12.vrwhovr.com lfs_12
+192.168.1.1 lfs_12.vrwhovr.com lfs_12
+
+# End /etc/hosts

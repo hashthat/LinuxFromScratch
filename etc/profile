@@ -1,0 +1,5 @@
+# Begin /etc/profile
+
+export LANG=en_US.ISO-8859-1
+
+# End /etc/profile
